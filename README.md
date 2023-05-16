@@ -9,7 +9,7 @@
 <h2 align="center"><img src="assets/about_me.gif" width="20px">&nbsp;&nbsp;<b>About me</b></h2>
 
 #### Hello I'm Muhammad Ihsan Maulana. I'm a Junior Website developer with the ability to analyze and create logic for a website application program
-- 🎓 I am a student from SMK Negeri 17 Jakarta
+- 🎓 I am a fresh graduate from SMK Negeri 17 Jakarta
 - 🖥️ I am very interested in website development
 - 🤖 I am also interested in the development of artificial intelligence
 - 👨🏻‍💻 Really like code, logic and problem solving 
@@ -47,6 +47,7 @@
 
    ![Git](https://img.shields.io/badge/git-F6F6F6.svg?style=for-the-badge&logo=git&logoColor=orange)
    ![GitHub](https://img.shields.io/badge/GitHub-020202.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
    ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
    ![Laragon](https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=laragon&logoColor=white)
 
